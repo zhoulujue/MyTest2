@@ -1,4 +1,4 @@
-// AmazonTestSection.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌÐòµÄÈë¿Úµã¡£
+// AmazonTestSection.cpp : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¨Ó¦ï¿½Ã³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Úµã¡£
 //
 
 #include "stdafx.h"
@@ -91,7 +91,7 @@ bool Intersection(IN Interval& intervalA, IN Interval& intervalB, OUT Interval& 
 *	Solve the union of the given two intervals.
 *	Notice that if the given intervals overlap, then 
 *	this function return true indicating that the outUnion is the only union interval.
-*   On the other hand if they don't overlap, return false and the union of the given 
+*	On the other hand if they don't overlap, return false and the union of the given 
 *	two intervals is a simply collection of both.
 *	@param intervalA : The given interval to be aggregated.
 *	@param intervalB : The given interval to be aggregated.
